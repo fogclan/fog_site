@@ -1,0 +1,7 @@
+[submodule "themes/hugo-elate-theme"]
+	path = themes/hugo-elate-theme
+	url = https://github.com/saey55/hugo-elate-theme
+[submodule "public"]
+	path = public
+	url = git@github.com:fogclan/fogclan.github.io.git
+	branch = master
