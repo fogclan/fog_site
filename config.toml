@@ -1,6 +1,6 @@
 # Page settings
 baseurl = "localhost:1313"
-title = "Elate theme"
+title = "FoG"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
